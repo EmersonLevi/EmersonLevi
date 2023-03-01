@@ -11,6 +11,18 @@
 
 ## Oii eu sou o Emerson Levi
 
+<div align="center">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=EmersonLevi&show_icons=true&hide_border=true&theme=discord_old_blurple&&count_private=true&hide=contribs">
+  
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonLevi&layout=compact&show_icons=true&hide_border=true&theme=discord_old_blurple&&count_private=true&hide=contribs">
+</div>
+
+<!--
+<div align="center">
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=EmersonLevi"><p>
+</div>
+-->
+
 <div style="display: inline_block"><br>
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
