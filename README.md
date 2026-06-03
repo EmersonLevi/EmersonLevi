@@ -1,27 +1,34 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/assets/main/banner-emerson-levi.png"/>
+<img src="https://raw.githubusercontent.com/EmersonLevi/assets/main/banner-github.png" width="100%" />
 
-# 👋 Olá, eu sou Emerson Levi
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=IA+%7C+CRM+%7C+Automa%C3%A7%C3%B5es;Head+de+Performance;Especialista+em+Processos+e+Escalabilidade;Transformando+tecnologia+em+resultados"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=25&pause=1000&color=0A84FF&center=true&vCenter=true&width=1000&lines=IA+%7C+CRM+%7C+AUTOMA%C3%87%C3%83O+%7C+GEST%C3%83O+DE+PROJETOS;Especialista+em+Processos+e+Escalabilidade;Transformando+Tecnologia+em+Resultados+Reais;Automa%C3%A7%C3%B5es+que+geram+crescimento" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=EmersonLevi\&color=0A84FF\&style=for-the-badge)
 
 </div>
 
+# 👋 Olá, eu sou Emerson Levi
+
+Especialista em tecnologia, automação e performance.
+
+Transformo processos empresariais em operações escaláveis através de Inteligência Artificial, CRM, automações e gestão eficiente.
+
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Áreas de Especialização
 
-Especialista em IA, CRM e Automação com foco em performance, escalabilidade e crescimento sustentável.
-
-### Principais áreas
-
-- 🤖 Inteligência Artificial aplicada a negócios
-- ⚙️ CRM e automações comerciais
-- 📈 Performance e aquisição de clientes
-- 📊 Análise de dados
-- 🏗️ Estruturação de processos
-- 🚀 Gestão de projetos
+* 🤖 Inteligência Artificial aplicada a negócios
+* ⚙️ CRM e Automação Comercial
+* 📈 Performance Marketing
+* 🚀 Gestão de Projetos
+* 📊 Business Intelligence
+* 🏗️ Estruturação de Processos
+* 📡 Escalabilidade Operacional
 
 ---
 
@@ -29,9 +36,9 @@ Especialista em IA, CRM e Automação com foco em performance, escalabilidade e 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EmersonLevi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonLevi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonLevi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonLevi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -42,6 +49,16 @@ Especialista em IA, CRM e Automação com foco em performance, escalabilidade e 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmersonLevi&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmersonLevi&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -61,7 +78,7 @@ Especialista em IA, CRM e Automação com foco em performance, escalabilidade e 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,ansible,git,grafana,github"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,ansible,git,github,grafana"/>
 
 </div>
 
@@ -69,7 +86,13 @@ Especialista em IA, CRM e Automação com foco em performance, escalabilidade e 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OpenAI-0A84FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Make-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/CRM-0A84FF?style=for-the-badge"/>
 
@@ -78,6 +101,8 @@ Especialista em IA, CRM e Automação com foco em performance, escalabilidade e 
 <img src="https://img.shields.io/badge/IA-0A84FF?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Performance-0A84FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
 
 </div>
 
@@ -94,30 +119,60 @@ Especialista em IA, CRM e Automação com foco em performance, escalabilidade e 
 
 ✓ Processos Empresariais
 
-✓ Performance Marketing
-
 ✓ Growth & Escalabilidade
 
 ✓ Business Intelligence
+
+✓ Marketing de Performance
 ```
 
 ---
 
-## 📈 Atividade Recente
+## 🚀 Projetos em Destaque
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmersonLevi&theme=tokyo-night&hide_border=true"/>
+<td width="50%">
 
-</div>
+### 🤖 CRM Automation
+
+Automações comerciais, CRM e integração de processos.
+
+Tecnologias:
+
+* IA
+* CRM
+* n8n
+* APIs
+
+</td>
+
+<td width="50%">
+
+### 📊 Performance Dashboard
+
+Dashboards para monitoramento e tomada de decisão.
+
+Tecnologias:
+
+* Grafana
+* Analytics
+* Automação
+* BI
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🌎 Conecte-se Comigo
+## 🌎 Conecte-se comigo
 
 <div align="center">
 
-<a href="https://instagram.com/dev.emersonlevi">
+<a href="https://instagram.com/emersonlevii">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -135,7 +190,10 @@ Especialista em IA, CRM e Automação com foco em performance, escalabilidade e 
 
 <div align="center">
 
-### ⚡ Construindo sistemas, automações e operações escaláveis.
+# ⚡ AUTOMAÇÃO • IA • ESTRATÉGIA • RESULTADOS
+
+### Transformando tecnologia, processos e dados em crescimento real.
 
 </div>
+
 
